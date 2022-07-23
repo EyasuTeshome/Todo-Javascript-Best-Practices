@@ -1,0 +1,1 @@
+Checking if javascript best practices are applied correctly
